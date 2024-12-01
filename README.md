@@ -5,7 +5,7 @@ An experimental gamified system for alternative value exchange in combat sports,
 ## What’s Inside
 - **The Framework**: A structured approach to building a survival-focused barter portfolio for fighters and stakeholders.
 - **The Game**: A dynamic system where users strategize, trade, and level up their assets in a simulated barter economy.
-- **Resources**: Downloadable JSON/Excel files of 50 categorized assets with ratings for trade value, prep time, and more.
+- **Resources**: Downloadable JSON/Excel files of 70 categorized assets with ratings for trade value, prep time, and more.
 
 ## Why a Gamified Barter System?
 Combat sports are about survival, adaptability, and grit. This gamified system helps fighters, gyms, and managers rethink value exchange by turning resource management into a strategic challenge—one that can be applied in real life and economic crises.
