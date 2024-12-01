@@ -22,7 +22,7 @@ Combat sports are about survival, adaptability, and grit. This gamified system h
 3. **Contribute**: Submit ideas, test game features, or refine asset ratings to make the system more robust.
 
 ## Getting Started
-1. **Clone the Repository**: `git clone https://github.com/PippaVonBerg/AltAssetsBarterFramework.git`
+1. **Clone the Repository**: `git clone https://github.com/PippaVonBerg/Combat-Economics-Gamified-Barter-Framework.git`
 2. **Download the Tools**: Navigate to the `/data` folder and download the asset files for offline use.
 3. **Run the Game**: Compile and run the Java files in `/game` to start the gamified experience.
 
